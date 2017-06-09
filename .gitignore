@@ -1,0 +1,4 @@
+maven/template-webapp-tomcat/target/
+maven/template-webapp-tomcat/.idea/
+maven/template-webapp-tomcat/*.iml
+maven/template-webapp-tomcat/dependency-reduced-pom.xml
