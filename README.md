@@ -14,6 +14,15 @@ Overview
 ## Requirement
 
 ## Usage
+Package Jar with Tomcat
+```shell
+$ mvn clean package -Dmaven.test.skip=true -X
+```
+
+Run an App
+```
+$ java -jar target/template-webapp-tomcat-1.0.0-SNAPSHOT.jar
+```
 
 ## Installation
 
